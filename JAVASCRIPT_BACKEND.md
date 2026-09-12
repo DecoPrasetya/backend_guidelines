@@ -1,4 +1,4 @@
-# Backend Architecture & Contribution Guidelines
+# Backend Architecture & Contribution Guidelines (Java Script)
 
 Welcome to the backend repository! This document outlines our folder structure, architectural patterns, and coding standards. By following these guidelines, you help maintain a clean, scalable, and readable codebase.
 
